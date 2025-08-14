@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-14T11:19:29.2606829+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 20,
+    "DateAdded": "2025-08-14T11:19:29.2712203+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 15,
+    "DateAdded": "2025-08-14T11:19:29.2712234+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Monitor",
+    "Quantity": 8,
+    "DateAdded": "2025-08-14T11:19:29.2712238+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Headphones",
+    "Quantity": 25,
+    "DateAdded": "2025-08-14T11:19:29.271224+00:00"
+  },
+  {
+    "Id": 6,
+    "Name": "ps4",
+    "Quantity": 2,
+    "DateAdded": "2025-08-14T11:21:10.3971221+00:00"
+  },
+  {
+    "Id": 7,
+    "Name": "wer",
+    "Quantity": 2,
+    "DateAdded": "2025-08-14T11:21:25.8530819+00:00"
+  }
+]

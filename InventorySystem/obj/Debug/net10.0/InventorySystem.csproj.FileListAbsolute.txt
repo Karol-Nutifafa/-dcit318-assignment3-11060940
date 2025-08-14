@@ -1,0 +1,15 @@
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\bin\Debug\net10.0\InventorySystem.exe
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\bin\Debug\net10.0\InventorySystem.deps.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\bin\Debug\net10.0\InventorySystem.runtimeconfig.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\bin\Debug\net10.0\InventorySystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\bin\Debug\net10.0\InventorySystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.AssemblyInfo.cs
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.sourcelink.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\refint\InventorySystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\InventorySystem.genruntimeconfig.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\InventorySystem\obj\Debug\net10.0\ref\InventorySystem.dll
