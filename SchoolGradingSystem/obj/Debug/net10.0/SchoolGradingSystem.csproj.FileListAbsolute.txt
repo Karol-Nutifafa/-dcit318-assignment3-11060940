@@ -1,0 +1,15 @@
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.sourcelink.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\bin\Debug\net10.0\SchoolGradingSystem.exe
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\bin\Debug\net10.0\SchoolGradingSystem.deps.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\bin\Debug\net10.0\SchoolGradingSystem.runtimeconfig.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\bin\Debug\net10.0\SchoolGradingSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\bin\Debug\net10.0\SchoolGradingSystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\refint\SchoolGradingSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\SchoolGradingSystem\obj\Debug\net10.0\ref\SchoolGradingSystem.dll

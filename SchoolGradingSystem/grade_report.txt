@@ -1,0 +1,19 @@
+=== Student Grade Report ===
+Generated on: 2025-08-14 11:09:59
+============================
+
+John Smith (ID: 1): Score = 85, Grade = A
+Mary Johnson (ID: 2): Score = 92, Grade = A
+Bob Wilson (ID: 3): Score = 78, Grade = B
+Alice Brown (ID: 4): Score = 65, Grade = C
+Charlie Davis (ID: 5): Score = 45, Grade = F
+
+============================
+Total Students: 5
+
+Grade Distribution:
+Grade A: 2 student(s)
+Grade B: 1 student(s)
+Grade C: 1 student(s)
+Grade D: 0 student(s)
+Grade F: 1 student(s)
