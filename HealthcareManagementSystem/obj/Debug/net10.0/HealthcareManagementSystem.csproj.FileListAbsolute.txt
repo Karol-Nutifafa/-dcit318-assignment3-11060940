@@ -1,0 +1,15 @@
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\bin\Debug\net10.0\HealthcareManagementSystem.exe
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\bin\Debug\net10.0\HealthcareManagementSystem.deps.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\bin\Debug\net10.0\HealthcareManagementSystem.runtimeconfig.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\bin\Debug\net10.0\HealthcareManagementSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\bin\Debug\net10.0\HealthcareManagementSystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.AssemblyInfoInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.AssemblyInfo.cs
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.sourcelink.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\refint\HealthcareManagementSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\HealthcareManagementSystem.genruntimeconfig.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\HealthcareManagementSystem\obj\Debug\net10.0\ref\HealthcareManagementSystem.dll
