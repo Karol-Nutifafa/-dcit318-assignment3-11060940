@@ -1,0 +1,15 @@
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.AssemblyInfoInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.AssemblyInfo.cs
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.sourcelink.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\bin\Debug\net10.0\WarehouseManagementSystem.exe
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\bin\Debug\net10.0\WarehouseManagementSystem.deps.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\bin\Debug\net10.0\WarehouseManagementSystem.runtimeconfig.json
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\bin\Debug\net10.0\WarehouseManagementSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\bin\Debug\net10.0\WarehouseManagementSystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\refint\WarehouseManagementSystem.dll
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.pdb
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\WarehouseManagementSystem.genruntimeconfig.cache
+C:\Users\yaoka\OneDrive\Desktop\dcit318-assignment3-11060940\WarehouseManagementSystem\obj\Debug\net10.0\ref\WarehouseManagementSystem.dll
